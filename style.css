@@ -21,9 +21,6 @@ header {
   padding: 96px 24px 64px;
 }
 
-.max-width-wrapper {
-}
-
 .intro-chunk {
   max-width: 800px;
   margin-inline: auto;
@@ -62,8 +59,8 @@ section.max-width-wrapper {
   background-color: #ffbf00;
   border-bottom: 10px solid #cc9900;
   padding: 16px 32px;
-  margin: 0;
   margin-left: -32px;
+  margin: 0;
 }
 
 .card p {
